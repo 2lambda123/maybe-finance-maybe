@@ -124,7 +124,7 @@
         "next": "13.1.1",
         "pg": "^8.8.0",
         "plaid": "^12.1.0",
-        "postcss": "8.4.19",
+        "postcss": "8.4.31",
         "postmark": "^3.0.14",
         "prisma": "^5.8.0",
         "prosemirror-commands": "^1.5.0",

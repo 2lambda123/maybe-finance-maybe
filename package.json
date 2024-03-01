@@ -152,7 +152,7 @@
         "react-ranger": "^2.1.0",
         "react-responsive": "^9.0.0-beta.10",
         "regenerator-runtime": "0.13.7",
-        "sanitize-html": "^2.8.1",
+        "sanitize-html": "^2.12.1",
         "smooth-scroll-into-view-if-needed": "^1.1.33",
         "stripe": "^10.17.0",
         "superjson": "^1.11.0",

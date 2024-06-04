@@ -101,7 +101,7 @@
         "d3-array": "^3.2.0",
         "dayzed": "^3.2.3",
         "decimal.js": "^10.4.2",
-        "ejs": "^3.1.8",
+        "ejs": "^3.1.10",
         "express": "4.19.2",
         "express-async-errors": "^3.1.1",
         "express-jwt": "^7.7.7",
